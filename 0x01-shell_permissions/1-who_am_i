@@ -1,0 +1,2 @@
+Prints the effective username of current user
+id -un
