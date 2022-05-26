@@ -1,2 +1,2 @@
-Prints the effective username of current user
+#!/bin/bash
 id -un
